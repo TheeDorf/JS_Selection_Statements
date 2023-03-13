@@ -43,7 +43,7 @@ switch (birthMonth) {
   console.log("you were born in summer")
   break;
   case "november":
-  console.log("you were born in autumn");
+  console.log("you were born in fall");
 
   default:
     console.log("you were born during different months")
